@@ -14,26 +14,9 @@ async function checkRoleRedirect(req: Request, res: Response) {
     const user = await User.find({ username }).exec();
     console.log(user[0].role + ": " + req.url)
     switch (user[0].role) {
-        case "Statistician":
-            if (req.url == "/timeline")
-                res.sendFile('pages/timeline.html', { root: './' });
-            else
-                res.redirect('/timeline');
-            break;
         case "Admin":
             res.sendFile('pages/' + req.url + '.html', { root: './' });
             break;
-        case "Operator": case "Technician":
-            if (req.url == "/alerts")
-                res.sendFile('pages/alerts.html', { root: './' });
-            else if(req.url == "/slots")
-                res.sendFile('pages/slots.html', { root: './' });
-            else if(req.url == "/casinos")
-                res.sendFile('pages/casinos.html', { root: './' });
-            else
-                res.redirect('/slots')
-            break;
-            
         default:
             break;
     }
@@ -54,7 +37,7 @@ const pageController = {
         if (token != null) {
             jwt.verify(token, process.env.ACCESS_TOKEN_SECRET as string, (err: any, user: any) => {
                 if (!err) {
-                    res.redirect('/slots')
+                    res.redirect('/timeline')
                 }
             })
         }

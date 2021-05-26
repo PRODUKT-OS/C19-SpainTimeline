@@ -34,11 +34,6 @@ const jwt = require("jsonwebtoken");
 //Constructors 
 import * as contructor from './config/constructors'
 //Pages
-import * as slotController from './controllers/slots.controller';
-import * as casinosController from './controllers/casinos.controller';
-import * as statisticsController from './controllers/statistics.controller';
-
-import * as alertsController from './controllers/alerts.controller';
 import * as userController from './controllers/user.controller';
 // Express
 const app = express();
@@ -114,23 +109,8 @@ wsServer.on('request', function (request: any) {
                     //return res.sendStatus(403)
                 } else {
                     switch (incomingMessage.type) {
-                        case "slotsRequest":
-                            slotController.sendSlotsInfo(connection);
-                            break;
-                        case "modelsRequest":
-                            slotController.sendModelsInfo(connection);
-                            break;
-                        case "casinosRequest":
-                            casinosController.sendCasinosInfo(connection);
-                            break;
-                        case "alertsRequest":
-                            alertsController.sendAlertsInfo(connection);
-                            break;
                         case "roleRequest":
                             userController.sendRole(connection,incomingMessage.token);
-                            break;
-                        case "statisticsRequest":
-                            statisticsController.sendStatisticsInfo(connection);
                             break;
                         default:
                             break;

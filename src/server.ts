@@ -81,7 +81,7 @@ var url = require('url');
 //     response.end("OK!"); //send a response
 // });
 
-server.listen(5000, function () {
+server.listen(80, function () {
     console.log("Server ready!");
 });
 

@@ -11000,7 +11000,7 @@ var TL = function(t) {
                     this._el.media = T("span", "tl-icon-" + n, this._el.media_container)
                 }
             }
-            this._el.text = T("div", "tl-timemarker-text", this._el.content),
+            this._el.text = "", //IAIR MODIFICATION
             this._text = T("h2", "tl-headline", this._el.text),
             this.data.text.headline && "" != this.data.text.headline ? this._text.innerHTML = Z(this.data.text.headline) : this.data.text.text && "" != this.data.text.text ? this._text.innerHTML = Z(this.data.text.text) : this.data.media && this.data.media.caption && "" != this.data.media.caption && (this._text.innerHTML = Z(this.data.media.caption)),
             this.onLoaded()

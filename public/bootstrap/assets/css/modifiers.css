@@ -99,6 +99,10 @@ table.dataTable.dtr-inline.collapsed>tbody>tr.parent>td:first-child:before, tabl
     color:#757676!important;
 }
 
+.tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-minor .tl-timeaxis-tick .tl-timeaxis-tick-text {
+    color: #757676;
+}
+
 .main-panel{
     background: linear-gradient(#ade6ee,#b7e6ec) !important;
     border-top: 2px solid #1dcaff;
@@ -242,4 +246,29 @@ div.jqcloud span {
 , rgba(0,0,0,0.22), rgba(255,255,255,0.25));
     /* border: solid; */
     box-shadow: 12px 12px 16px 0 rgb(0 0 0 / 25%)inset, -8px -8px 12px 0 rgb(151 151 151 / 30%) inset;
+}
+
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-media-container {
+    margin-left: 30%;
+}
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-media-container .tl-timemarker-media{
+    opacity: 100% !important;
+}
+
+.tl-timemarker.tl-timemarker-with-end .tl-timemarker-content-container.tl-timemarker-content-container-long{
+    min-height: 28px;
+}
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content{
+    min-height: 28px;
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container{
+    min-height: 28px;
+}
+.tl-timemarker-content-container .tl-timemarker-content-container-small{
+    min-height: 28px;
+}
+
+.tl-timemarker-content-container-small{
+    min-height: 28px;
 }

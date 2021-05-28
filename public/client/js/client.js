@@ -14,7 +14,7 @@ var role;
 function connect() {
 
 
-    connection = new WebSocket("ws://localhost:5000");
+    connection = new WebSocket("ws://localhost:80");
 
 
 

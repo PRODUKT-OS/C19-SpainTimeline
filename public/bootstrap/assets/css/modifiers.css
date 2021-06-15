@@ -41,15 +41,6 @@ table.dataTable.dtr-inline.collapsed>tbody>tr.parent>td:first-child:before, tabl
     background-color:#913282 !important;
 }
 
-/* .off-canvas-sidebar .sidebar-wrapper, .sidebar .sidebar-wrapper {
-    min-height: min-content !important;
-    max-height: min-content !important;
-}
-
-.off-canvas-sidebar, .sidebar{
-    height: min-content !important;
-} */
-
 .tl-timenav {
     background-color:#0084b4 !important;
 }
@@ -106,10 +97,6 @@ h3,p,h2,i{
     height: 10vw;
     border-radius: 5%;
     background: #c0deed;
-    /* background-image: url("/bootstrap/assets/img/apple-icon.png");
-    background-position: center;
-background-repeat: no-repeat;
-background-size: cover; */
     margin: 8px;
     background: linear-gradient(
 -45deg
@@ -120,10 +107,6 @@ background-size: cover; */
 }
 .topic-circle:hover{
     box-shadow: 12px 12px 16px 0 rgb(0 0 0 / 25%), -8px -8px 12px 0 rgb(151 151 151 / 30%) ;
-    /* border-style: inset;
-    border-width: 5px; */
-    /* border: 10px; */
-    /* border: 10px inset  rgba(111,111,111,0); */
 }
 .tl-slide-scrollable-container{
     width: 100%;
@@ -141,13 +124,6 @@ background-size: cover; */
 .tl-text-content{
     padding-left: 3%;
 }
-
-.tl-media .tl-media-content-container .tl-media-content {
-
-    /* margin: 0 100px 0 100px; */
-}
-/* jqcloud */
-/* fonts */
 
 div.jqcloud {
     font-size: 10px;

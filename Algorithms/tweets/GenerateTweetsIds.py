@@ -4,8 +4,6 @@
 from elasticsearch import Elasticsearch
 import json
 import os
-#es = Elasticsearch()
-
 
 first_date = "2020-01-23"
 last_date = "2020-01-23"
@@ -65,22 +63,13 @@ for interval in finalIntervals:
       'size': size
     })
 
-    #res = es.search(index="tweets_c19", body=query)
-
-    #print("Got %d Hits:" % res['hits']['total']['value'])
-        
-        
-    
-
-
-    # Init scroll by search
     data = es.search(
         index="tweets_c19",
         scroll='2m',
         body=query
     )
 
-    # Get the scroll ID
+
     sid = data['_scroll_id']
     scroll_size = len(data['hits']['hits'])
     print("scrolling on range "+ interval[0]+ " / " + interval[1])
@@ -90,14 +79,12 @@ for interval in finalIntervals:
         while scroll_size > 0:
             "Scrolling..."
             print("processing " + str(scroll_size) + " tweets")
-            # Before scroll, process current batch of hits
+            
             process_hits(data['hits']['hits'],f_output)
             
             data = es.scroll(scroll_id=sid, scroll='2m')
-
-            # Update the scroll ID
+            
             sid = data['_scroll_id']
 
-            # Get the number of results that returned in the last scroll
             scroll_size = len(data['hits']['hits'])    
         

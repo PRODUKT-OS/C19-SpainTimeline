@@ -8,10 +8,6 @@ const routes = Router();
 //Homepage
 routes.get("/", pageController.login);
 
-//Register
-routes.get("/register", pageController.register);
-routes.post("/register", userController.create);
-
 // Login
 routes.get("/login",pageController.login)
 routes.post("/login", userController.login);

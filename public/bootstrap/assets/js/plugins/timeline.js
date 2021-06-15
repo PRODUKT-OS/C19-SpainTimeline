@@ -5672,7 +5672,7 @@ var TL = function(t) {
         var n = function(t, e, i) {
             i || (i = "");
             return e && e.length > 30 && (e = e.substring(0, 30) + "…"),
-            i + "<a class='tl-makelink' href='" + t + "' onclick='void(0)'>" + e + "</a>"
+            i + "<a class='tl-makelink' "+ `target="_blank"` +" href='" + t + "' onclick='void(0)'>" + e + "</a>" //MODIFICACION IAIR
         };
         return t.replace(/\b(?:https?|ftp):\/\/([a-z0-9-+&@#\/%?=~_|!:,.;]*[a-z0-9-+&@#\/%=~_|])/gim, (function(t, e, i, r) {
             if (i > 0) {

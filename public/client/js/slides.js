@@ -1941,32 +1941,129 @@ Comparación datos día anterior: 12.426 contagiados,...  </b>https://es.wikiped
 <ul class="list-group">
 <li class="list-group-item"><b>Mediodía: 835.901 contagiados, 32.562 / 56.573 muertos y 10.662 hospitalizados, 1.568 en UCI. [91]
 Comparación día anterior: 10.491 contagiados, 76 fa...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 848.324 contagiados, 32.688 / 56.699 muertos y 10.645 hospitalizados, 1.585 en UCI. [91]
+Comparación día anterior: 12.423 contagiados, 126 f...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
 <li class="list-group-item"><b>Mediodía: 861.112 contagiados, 32.929 / 56.940 muertos y 10.554 hospitalizados, 1.590 en UCI. [91]
 Comparación día anterior: 12.778 contagiados, 241 f...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 888.968 contagiados, 33.124 / 57.135 muertos y 10.109 hospitalizados, 1.546 de ellos en UCI. [91]
+Comparación fin de semana: 27.856 contagia...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 896.086 contagiados, 33.204 / 57.215 muertos y 11.297 hospitalizados, 1.595 de ellos en UCI. [91]
+Comparación día anterior: 7.118 contagiado...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"10","day":"14","year":"2020"},"end_date":{"month":"10","day":"21","year":"2020"},"text":{"headline":"News Week 48","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 908.056 contagiados, 33.413 / 57.424 muertos y 11.671 hospitalizados, 1.652 de ellos en UCI. [91]
+Comparación día anterior: 11.970 contagiad...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 921.374 contagiados, 33.553 / 57.564 muertos y 11.692 hospitalizados, 1.473 de ellos en UCI. [91]
+Comparación día anterior: 13.318 contagiad...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 936.560 contagiados, 33.775 / 57.786 muertos y 11.784 hospitalizados, 1.768 de ellos en UCI. [91]
+Comparación día anterior: 15.186 contagiad...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 974.449 contagiados, 33.992 / 58.003 muertos y 12.945 hospitalizados, 1.857 de ellos en UCI. [91]
+Comparación día anterior: 37.889 contagiad...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 988.322 contagiados, 34.210 / 58.221 muertos y 13.288 hospitalizados, 1.911 de ellos en UCI. [91]
+Comparación día anterior: 13.873 contagiad...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"10","day":"21","year":"2020"},"end_date":{"month":"10","day":"28","year":"2020"},"text":{"headline":"News Week 49","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 1.005.295 contagiados, 34.366 / 58.377 muertos y 13.696 hospitalizados, 1.930 de ellos en UCI. [91]
+Comparación día anterior: 16.973 contagi...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 1.026.281 contagiados, 34.521 / 58.532 muertos y 14.160 hospitalizados, 1.966 de ellos en UCI. [91]
+Comparación día anterior: 20.986 contagi...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 1.046.132 contagiados, 34.752 / 58.763 muertos y 14.539 hospitalizados, 2.031 de ellos en UCI. [91]
+Comparación día anterior: 19.851 contagi...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.
+El Presidente del Gobierno convoca un Consejo de M...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 1.098.320 contagiados, 35.031 / 59.042 muertos, 410,18 de Incidencia Acumulada, 996.174 PCR en la última semana, 2.118,34 por cada 100.000 h...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 1.116.738 contagiados, 35.298 / 59.309 muertos, 436,47 de Incidencia Acumulada, 1.025.912 de PCR en la última semana, 2.181,58 por cada 100....  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"10","day":"28","year":"2020"},"end_date":{"month":"10","day":"31","year":"2020"},"text":{"headline":"News Week 50","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 1.136.503 contagiados, 35.466 / 59.477 muertos, 452,63 de Incidencia Acumulada, 1.046.217 de PCR en la última semana, 2.224,75 por cada 100....  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 1.160.083 contagiados, 35.639 / 59.650 muertos, Nivel de Riesgo Extremo, 468,12 de Incidencia Acumulada, 1.063.770 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
+<li class="list-group-item"><b>Mediodía: 1.185.678 contagiados, 35.878 / 59.889 muertos, Nivel de Riesgo Extremo, 485,28 de Incidencia Acumulada, 1.086.645 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Octubre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"11","day":"01","year":"2020"},"end_date":{"month":"11","day":"07","year":"2020"},"text":{"headline":"News Week 51","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.
+Melilla pide al Gobierno un confinamiento domicili...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.240.697 contagiados, 36.257 / 60.268 muertos, Nivel de Riesgo Extremo, 521,07 de Incidencia Acumulada, 1.151.645 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.259.366 contagiados, 36.495 / 60.506 muertos, Nivel de Riesgo Extremo, 527,94 de Incidencia Acumulada, 1.137.605 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.284.408 contagiados, 38.118 / 62.129 muertos, Nivel de Riesgo Extremo, 528,75 de Incidencia Acumulada, 1.182.184 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.306.316 contagiados, 38.486 / 62.497 muertos, Nivel de Riesgo Extremo, 527,30 de Incidencia Acumulada, 1.205.303 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.328.832 contagiados, 38.833 / 62.843 muertos, Nivel de Riesgo Extremo, 525,74 de Incidencia Acumulada, 1.177.863 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"11","day":"07","year":"2020"},"end_date":{"month":"11","day":"14","year":"2020"},"text":{"headline":"News Week 52","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.381.218 contagiados, 39.345 / 63.355 muertos, Nivel de Riesgo Extremo, 529,43 de Incidencia Acumulada, 1.142.815 de PCR en la última seman...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.398.613 contagiados, 39.756 muertos, Nivel de Riesgo Extremo, 524,60 de Incidencia Acumulada,
+Comparación día anterior: 17395 contagiados,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.417.709 contagiados, 40.105 muertos, Nivel de Riesgo Extremo, 514,25 de Incidencia Acumulada, 1.125.002 de PCR en la última semana, 2.392,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.437.220 contagiados, 40.461 muertos, Nivel de Riesgo Extremo, 504,41 de Incidencia Acumulada,. 1.132.571 de PCR en la última semana, 2.408...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.458.591 contagiados, 40.769 muertos, Nivel de Riesgo Extremo, 498,19 de Incidencia Acumulada,. 1.164.716 de PCR en la última semana, 2.476...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"11","day":"14","year":"2020"},"end_date":{"month":"11","day":"21","year":"2020"},"text":{"headline":"News Week 53","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.496.864 contagiados, 41.253 muertos, Nivel de Riesgo Extremo, 470,26 de Incidencia Acumulada. 1.155.018 de PCR en la última semana, 2.456,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.510.023 contagiados, 41.688 muertos, Nivel de Riesgo Extremo, 465,86 de Incidencia Acumulada. 1.135.546 de PCR en la última semana, 2.414,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.525.341 contagiados, 42.039 muertos, Nivel de Riesgo Extremo, 452,57 de Incidencia Acumulada. 1.122.905 de PCR en la última semana, 2.387,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.541.574 contagiados, 42.291 muertos, Nivel de Riesgo Extremo, 436,21 de Incidencia Acumulada. 1.111.297 de PCR en la última semana, 2.363,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.556.730 contagiados, 42.619 muertos, Nivel de Riesgo Extremo, 419,48 de Incidencia Acumulada. 1.105.508 de PCR en la última semana, 2.350,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"11","day":"21","year":"2020"},"end_date":{"month":"11","day":"28","year":"2020"},"text":{"headline":"News Week 54","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.￼</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.582.616 contagiados, 43.131 muertos, Nivel de Riesgo Extremo, 374,52 de Incidencia Acumulada. 1.027.987 de PCR en la última semana, 2.185,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.594.844 contagiados, 43.668 muertos, Nivel de Riesgo Extremo, 362,35 de Incidencia Acumulada. 1.006.132 de PCR en la última semana, 2.139,...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.605.066 contagiados, 44.037 muertos, Nivel de Riesgo Extremo, 340,83 de Incidencia Acumulada. 988.429 de PCR en la última semana, 2.101,87...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.617.355 contagiados, 44.374 muertos, Nivel de Riesgo Extremo, 325,50 de Incidencia Acumulada, 981.011 de PCR en la última semana, 2.086,09...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>Mediodía: 1.628.208 contagiados, 44.668 muertos, Nivel de Riesgo Alto, 307,3 de Incidencia Acumulada. 957.254 de PCR en la última semana, 2.035,58 por...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"11","day":"28","year":"2020"},"end_date":{"month":"11","day":"30","year":"2020"},"text":{"headline":"News Week 55","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>￼No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
+<li class="list-group-item"><b>￼No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Noviembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"12","day":"01","year":"2020"},"end_date":{"month":"12","day":"07","year":"2020"},"text":{"headline":"News Week 56","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 1.656.444 contagiados, 45.511 muertos, Nivel de Riesgo Alto, 265,76 d e Incidencia Acumulada. 895.999 de PCR en la última semana, 1.905,32 p...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.665.775 contagiados, 45.784 muertos, Nivel de Riesgo Alto, 251,61 de Incidencia Acumulada, 904.249 de PCR en la última semana, 1.922,86 po...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.675.902 contagiados, 46.038 muertos, Nivel de Riesgo Alto, 240,89 de Incidencia Acumulada, 891.188 de PCR en la última semana, 1.895,09 po...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.684.847 contagiados, 46.252 muertos, Nivel de Riesgo Alto, 231,11 de Incidencia Acumulada, 894.576 de PCR en la última semana, 1.902,29 po...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"12","day":"07","year":"2020"},"end_date":{"month":"12","day":"14","year":"2020"},"text":{"headline":"News Week 57","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 1.702.328 contagiados, 46.646 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.712.101 contagiados, 47.019 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.720.056 contagiados, 47.344 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.720.056 contagiados, 47.344 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.730.575 contagiados, 47.624 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"12","day":"14","year":"2020"},"end_date":{"month":"12","day":"21","year":"2020"},"text":{"headline":"News Week 58","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 1.751.884 contagiados, 48.013 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.762.212 contagiados, 48.401 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.773.290 contagiados, 48.596 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.785.421 contagiados, 48.777 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.797.236 contagiados, 48.926 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"12","day":"21","year":"2020"},"end_date":{"month":"12","day":"28","year":"2020"},"text":{"headline":"News Week 59","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 1.819.249 contagiados, 49.260 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.829.903 contagiados, 49.520 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.842.289 contagiados, 49.698 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.854.951 contagiados, 49.824 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no ha dado datos al ser Navidad.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>No hay datos a nivel nacional debido a que el ministerio de Sanidad no da datos en fines de semana.
+Comienza la vacunación en España.
+La primera perso...  </b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}},{"start_date":{"month":"12","day":"28","year":"2020"},"end_date":{"month":"12","day":"31","year":"2020"},"text":{"headline":"News Week 60","text":`<div class="row mr-auto ml-auto">
 <ul class="list-group">
+<li class="list-group-item"><b>Mediodía: 1.879.413 contagiados, 50.122 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.893.502 contagiados, 50.442 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
+<li class="list-group-item"><b>Mediodía: 1.910.218 contagiados, 50.689 muertos</b>https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_la_pandemia_de_COVID-19_en_Espa%C3%B1a#Diciembre</li>
 </ul><\div>`},"background":{"color":"#0084b4"},"media":{"thumbnail":"/icons/newspaper.png"}}]}

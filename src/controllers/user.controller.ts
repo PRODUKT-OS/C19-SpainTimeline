@@ -26,11 +26,6 @@ export function sendRole(connection: any,token:any) {
         console.log(msg);
         connection.send(JSON.stringify(msg));
     });
-
-    // var msg = constructor.msgObj("unauth", "", "");
-    // console.log("SENDING:\n");
-    // console.log(msg);
-    // connection.send(JSON.stringify(msg));
 }
 
 function getCookie(req:any,name:any) {
@@ -87,10 +82,7 @@ const userController = {
             if (!isPasswordValid) return res.status(401).json({ message: "Wrong UP" })
             
             const token = generateAccessToken({ username: username })
-            //const new_token = crypto.randomBytes(30).toString("hex"); 
 
-            //await User.findOneAndUpdate({username}, {access_token: new_token},{new: true});
-            
             return res.status(200).json({
                 username: user.name,
                 access_token: token,
@@ -106,20 +98,14 @@ const userController = {
         // Gather the jwt access token from the request header
         const authHeader = req.headers
         console.log(authHeader)
-        //if(authHeader.split(' ').length == 1) res.redirect('/login');
-        //const token = authHeader && authHeader.split(' ')[1].split('=')[1]
         const token = getCookie(req,"token")
-        //console.log(token)
         if (token == null) {
             res.redirect('/login')
-            //return res.sendStatus(401) // if there isn't any token
         }
         console.log(process.env.ACCESS_TOKEN_SECRET)
         jwt.verify(token, process.env.ACCESS_TOKEN_SECRET as string, (err: any, user: any) => {
-          //console.log(err)
           if (err){
             res.redirect('/login')
-            //return res.sendStatus(403)
           }
           req.user = user
           next() // pass the execution off to whatever request the client intended
